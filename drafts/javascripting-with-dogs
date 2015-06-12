@@ -5,8 +5,11 @@ javascript is fun and all, but javascripting with dogs is way more interesting. 
 
 ###setting a variable 
 var dog = 'homer'
+<img src= "homer.jpg"> </img>
 var puppy = 'plato'
+<img src= "plato.jpg" </img>
 console.log(dog + ' loves ' + puppy) // 'homer loves plato'
+<img src= "homerandplato.jpg"</img>
 
 ##arrays
 var dogs = ['homer', 'plato]
