@@ -3,14 +3,14 @@ body {
   padding-right: 25%;
   color: black;
   padding-top:10px;
-  font: 20px "", Arial;
+  font: 20px "", sans-serif;
   line-height: 1.8;
   background-color: white;
 
 }
 
 code {
-  font: 14px "Monaco", Helvetica, Arial, sans-serif;
+  font: 14px, sans-serif
 }
 
 @media screen and (max-width: 1000px){
