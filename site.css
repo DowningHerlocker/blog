@@ -46,7 +46,7 @@ code {
 }
 
 footer {
-  padding-top: 20px;
+  padding-top: 100px;
 }
 
 img {
@@ -68,4 +68,40 @@ a {
 a:hover {
   color:#33CCFF;
   text-decoration:none;
+}
+
+.card-container {
+  cursor: pointer;
+  height: 100px;
+  perspective: 600;
+  position: relative;
+  width: 150px;
+  display: inline-block;
+  padding: 60px;
+}
+.card {
+  height: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: all 1s ease-in-out;
+  width: 100%;
+}
+.card:hover {
+  transform: rotateY(180deg);
+}
+.card .side {
+  backface-visibility: hidden;
+  border-radius: 6px;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+}
+.card .back {
+  background-image: url(img/congruent_pentagon.png)
+  color: white;
+  font-size: 20px;
+  line-height: 150px;
+  text-align: center;
+  transform: rotateY(180deg);
 }
