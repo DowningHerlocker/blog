@@ -1,9 +1,12 @@
 body {
   padding-left: 25%;
   padding-right: 25%;
+  color: #9966FF;
   padding-top:10px;
-  font: 18px "", Helvetica, Arial, sans-serif;
-  line-height: 1.8
+  font: 20px "", Verdana;
+  line-height: 1.8;
+  background-image: url(img/congruent_pentagon.png)
+
 }
 
 code {
@@ -19,7 +22,7 @@ code {
 
 @media screen and (max-width: 765px){
   body{
-    padding-left: 5%;
+    padding-left: 10%;
     padding-right: 5%;
   }
 }
@@ -27,20 +30,19 @@ code {
 #home {
   color: black; 
   text-decoration:none;
-  background-color:#0099FF;
-  padding: 7px;
+  background-color:#9999FF;
+  padding: 15px;
   color: white;
-  -webkit-transition: -webkit-transform 1s;
-  transition: transform 1s;
-  transition-property: box-shadow;
+  transition-property: background, border-radius;
+  transition-duration: .2s, 1s;
+  transition-timing-function: linear, ease-in;
   border-radius: 10px;
 }
 
 #home:hover {
-  box-shadow:-10px 0px #00CC99, -20px 0px #6633CC , -30px 0px #FFCCCC, -40px 0px #FF9900,10px 0px #00CC99, 20px 0px #6633CC, 30px 0px #FFCCCC, 40px 0px #FF9900;
-  -webkit-transition: -webkit-transform .3s;
-  transition: transform .5s;
-  transition-property: box-shadow;
+  background: #ff7b29;
+  border-radius: 50%;
+
 }
 
 footer {
@@ -58,7 +60,7 @@ hr {
 }
 
 a {
-  color:#66CCCC;
+  color:#9933FF;
   text-decoration:none;
   font-size: 100%;
 }

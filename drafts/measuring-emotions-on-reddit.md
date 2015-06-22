@@ -9,7 +9,7 @@ Reddit, is more than just a place to get updated on worldnews, look at cute pict
 
 I parsed the API, taking out the relevant information needed for my analysis. Here is a sample of my cleaned-up json:
 
-
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 - - -
 
