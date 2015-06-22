@@ -2,30 +2,3 @@
 
 <p> I am a self-taught computer programmer living in D.C. I specialize in JavaScript, Node.js, HTML, and CSS. I am currently researching projects in analyzing human emotions in social networks. Want to get in touch? Shoot me an email at <a href= 'https://mail.google.com/mail/u/0/#inbox?compose=new'> downing.herlocker@gmail.com </a> </p>
 
-<div class="card-container">
-  <div class="card">
-    <div class="side"><img src="http://media-cache-ec0.pinimg.com/736x/e6/1a/9a/e61a9ab921fe98653040071db757b0d8.jpg" alt="Jimmy Eat World"></div>
-    <div class="side back">Charleston Native</div>
-  </div>
-</div>
-
-<div class="card-container">
-  <div class="card">
-    <div class="side"><img src="http://hdwallnpics.com/wp-content/gallery/cute-golden-retriever-puppy-pictures/golden-retriever-puppy-900-1680x1050.jpg" alt="Jimmy Eat World"></div>
-    <div class="side back">Puppy Enthusiast</div>
-  </div>
-</div>
-
-<div class="card-container">
-  <div class="card">
-    <div class="side"><img src="http://www.sciway.net/sc-photos/wp-content/uploads/tillman-hall.jpg" alt="Jimmy Eat World"></div>
-    <div class="side back">Clemson Alumni</div>
-  </div>
-</div>
-
-<div class="card-container">
-  <div class="card">
-    <div class="side"><img src= "http://t.wallpaperweb.org/wallpaper/nature/1280x960/JLMWyomingGrandTetonNationalPark1600_1280x960.jpg" alt="Jimmy Eat World"></div>
-    <div class="side back">Adventure Seeker</div>
-  </div>
-</div>
