@@ -34,7 +34,7 @@ Aside from the easy to access API, I chose to anaylyze reddit because it covers 
 This graph shows the sum sentiment scores of the top 50 subreddits from negative to positive. 
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/index.html" style= "overflow:hidden; height=500%; width: 500%" width="800" height="900" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/index.html" style= "overflow:hidden; height=100%; width: 100%" width="2000" height="2000" scrolling="no" frameborder="0"></iframe>
 
 As you can see, the subreddit "IAmA" has the highest sum sentiment scores. With the "I Am A" subreddit, users post what they do in life, and people can comment, ask questions, ect. The subreddit with the most negative sum sentiment score was "AskReddit", where users can ask reddit anything. 
 
@@ -47,12 +47,12 @@ After analyzing the top 50 subreddits, I looked into contrasting subreddits.
 ####Cats vs Dogs####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/catdogindex.html" style= "overflow:hidden; height=50%; width:50%" width="600" height="700" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/catdogindex.html" style= "overflow:hidden; height=100%; width:100%" width="2000" height="2000" scrolling="no" frameborder="0"></iframe>
 
 ####Replublicans vs Democrats####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/politicsindex.html" style= "overflow:hidden; height=50%; width: 50%" width="600" height="700" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/politicsindex.html" style= "overflow:hidden; height=100%; width: 100%" width="2000" height="2000" scrolling="no" frameborder="0"></iframe>
 
 
 Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according to population and rank respectively include: 
@@ -69,7 +69,7 @@ Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according t
 Here you can see the different sum sentiment scores of each U.S. city. 
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/cityindex.html" style= "overflow:hidden; height=50%; width: 50%" width="600" height="700" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/cityindex.html" style= "overflow:hidden; height=100%; width: 100%" width="2000" height="2000" scrolling="no" frameborder="0"></iframe>
 
 - - -
 
@@ -80,12 +80,12 @@ After analyzing the sum subreddit scores, I wanted to look more into what kind o
 ####News####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/newsindex.html" style= "overflow:hidden; height=75%; width: 75%" width="700" height="800" scrolling="no" frameborder="0" ></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/newsindex.html" style= "overflow:hidden; height=100%; width: 100%" width="2000" height="2000" scrolling="no" frameborder="0" ></iframe>
 
 ####Technology####
                                              
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/techindex.html" style= "overflow:hidden; height=75%; width: 75%" width="700" height="800" scrolling="no" frameborder="0"></iframe>                                 
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/techindex.html" style= "overflow:hidden; height=100%; width: 100%" width="2000" height="2000" scrolling="no" frameborder="0"></iframe>                                 
 
 Whether you want to analyze how people feel about your favorite sports teams, the country you're visiting this summer, or the candidates for the presidential election, using sentiment anaylsis can quickly determine the human emotions on thousands of different topics. 
 
