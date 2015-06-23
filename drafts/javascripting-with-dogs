@@ -14,7 +14,11 @@ console.log('meet ' + dog + ' and ' puppy)
 
  ==> this will print: **meet homer and plato**
 
-![Alt text](/img/homer.jpg)
+<div align="center">
+        <img width="45%" src="img/homer.jpg" alt="Meet Homer" title="Meet Homer"</img>
+        <img height="2" width="4px">
+        <img width="40%" src="img/plato.jpg" alt="Meet Plato" title="Meet Plato"></img>
+</div>
 
 ##arrays
 ```
@@ -26,7 +30,10 @@ console.log(dogs[0] + ' loves ' + dogs[1])
 
 ==> this will print: **homer loves plato**
 
-![Alt text](/img/homerandplato.jpg)
+<div align="center">
+        <img width="55%" src="img/homerandplato.jpg" alt="Homer loves Plato" title="Homer loves Plato"</img>
+        <img height="2" width="4px">
+</div>
 
 ##objects in arrays 
 ```
@@ -38,9 +45,11 @@ console.log('the dogs are ' + dogs[0].age ' and ' + dogs[1].age)
 
 ==> this will print: **the dogs are 5 and 4**
 
-![Alt text](/img/180831_1599740081972_7795070_n.jpg)
-
-![Alt text](/img/plato3.jpg)
+<div align="center">
+        <img width="45%" src="img/180831_1599740081972_7795070_n.jpg" alt="Homer" title="Homer is 5"</img>
+        <img height="2" width="4px">
+        <img width="50%" src="img/plato3.jpg" alt="Plato" title="Plato is 4"></img>
+</div>
 
 
 ## the foreach loop
@@ -56,9 +65,11 @@ dogs.forEach(function(dog) {
 
 ==> this will print: **{'labradoodle', 'husky'}**
 
-![Alt text](/img/plato10.jpg)
-
-![Alt text](/img/homer10.jpg)
+<div align="center">
+        <img width="45%" src="img/plato10.jpg" alt="Homer" title="Homer is 5"</img>
+        <img height="2" width="4px">
+        <img width="50%" src="img/homer10.jpg" alt="Plato" title="Plato is 4"></img>
+</div>
 
 ##the push method
 ```
@@ -74,12 +85,16 @@ console.log(fav_food)
 ```
 ==> this will print: **['hotdogs','chipotle','greenies']**
 
-![Alt text](/img/homerandplato2.jpg)
-
-![Alt text](/img/scooter.jpg)
-
+<div align="center">
+        <img width="45%" src="img/homerandplato2.jpg" alt="Homer and Plato" title="Relaxin"</img>
+        <img height="2" width="4px">
+        <img width="50%" src="img/scooter.jpg" alt="Scooter" title="Meet Scooter!"></img>
+</div>
 
 ##thanks for reading!
 hopefully you learned something about some javascipt basics...but if you didnt, hopefully you appreciated the cute puppies. shoutout to homer, plato, and scooter for their good looks.
 
-![Alt text](/img/downingandplato.jpg)
+<div align="center">
+        <img width="45%" src="img/downingandplato.jpg" alt="Downing" title="I love my Plato!"</img>
+        <img height="2" width="4px">
+</div>
