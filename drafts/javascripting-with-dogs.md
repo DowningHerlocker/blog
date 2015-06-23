@@ -82,4 +82,7 @@ console.log(fav_food)
 ##thanks for reading!
 hopefully you learned something about some javascipt basics...but if you didnt, hopefully you appreciated the cute puppies. shoutout to homer, plato, and scooter for their good looks.
 
-![Alt text](/img/downingandplato.jpg)
+<div align="center">
+        <img width="45%" src="img/downingandplato.jpg" alt="Downing" title="I love my Plato!"</img>
+        <img height="2" width="4px">
+</div>
