@@ -9,7 +9,7 @@ Reddit, is more than just a place to get updated on worldnews, look at cute pict
 
 I parsed the API, taking out the relevant information needed for my analysis. Here is a sample of my cleaned-up json:
 
-![Alt text](https://github.com/DowningHerlocker/blog/blob/master/img/cleanjson.jpg)
+![Alt text](/img/cleanjson.jpg)
 
 - - -
 
