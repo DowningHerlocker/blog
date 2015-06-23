@@ -14,7 +14,11 @@ console.log('meet ' + dog + ' and ' puppy)
 
  ==> this will print: **meet homer and plato**
 
-![Alt text](/blog/img/homer.jpg)
+<div align="center">
+        <img width="45%" src="img/homer.jpg" alt="Meet Homer" title="Meet Homer"</img>
+        <img height="2" width="4px">
+        <img width="40%" src="img/plato.jpg" alt="Meet Plato" title="Meet Plato"></img>
+</div>
 
 ##arrays
 ```
