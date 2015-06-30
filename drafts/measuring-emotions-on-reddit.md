@@ -81,13 +81,14 @@ After analyzing the sum subreddit scores, I wanted to look more into what kind o
 
 ####News####
 
+<a href= "http://downingherlocker.github.io/measuring-emotions-on-reddit/news.html"> Here </a> you can see the sentiment scores for each post in the news subreddit
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/news.html" width="700" height="900" scrolling="no" frameborder="0" ></iframe>
+![Alt text](/img/messy.png)
 
 ####Technology####
                                              
-
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/tech.html" width="700" height="900" scrolling="no" frameborder="0"></iframe>                                 
+<a href= "http://downingherlocker.github.io/measuring-emotions-on-reddit/tech.html"> Here </a> you can see the sentiment scores for each post in the technology subreddit
+                             
 
 Whether you want to analyze how people feel about your favorite sports teams, the country you're visiting this summer, or the candidates for the presidential election, using sentiment anaylsis can quickly determine the human emotions on thousands of different topics. 
 
