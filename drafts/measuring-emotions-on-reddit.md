@@ -71,7 +71,7 @@ Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according t
 Here you can see the different sum sentiment scores of each U.S. city. 
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/uscities .html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="900" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/uscities.html" width="700" height="900" scrolling="no" frameborder="0"></iframe>
 
 - - -
 
