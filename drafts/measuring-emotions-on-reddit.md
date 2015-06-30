@@ -60,17 +60,20 @@ After analyzing the top 50 subreddits, I looked into contrasting subreddits.
 Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according to population and rank respectively include: 
 
 ```
-1.New York City             		11. Austin                       21. Denver 
-2.Los Angeles                     	12. Jacksonville	             22. Washington DC 
-2.Los Angeles                       13. San Francisco   			 23. Memphis
-3.Chicago                           14. Indianapolis	             24. Boston
-4.Houston                           15. Columbus  				     25. Nashville 
-5.Philadelphia  					16. Fortworth 
-6. Philadelphia 					17. Charlotte
-7. Phoenix   						18. Detroit
-8. San Antonio						19. El Paso 
-9. Dallas    						20. Seattle
-10. San Jose                                  
+1.New York City              		14. Indianapolis		                   
+2.Los Angeles                    	15. Columbus  		             
+2.Los Angeles                      	16. Fortworth    			 
+3.Chicago                          	17. Charlotte           
+4.Houston                           18. Detroit			    
+5.Philadelphia  					19. El Paso 
+6. Philadelphia 					20. Seattle
+10. San Jose   						21. Denver 
+7. Phoenix   						22. Washington DC 
+8. San Antonio						23. Memphis
+9. Dallas    						24. Boston
+11. Austin   						25. Nashville 
+12. Jacksonville  
+13. San Francisco                              
 ```
 
 Here you can see the different sum sentiment scores of each U.S. city. 
