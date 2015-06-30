@@ -17,12 +17,14 @@ With my new easy to navigate json, I ran a sentiment analysis test on all of the
 
 ```
 "You're dad is adorable and I want to adopt him." -Score: 5
-"It is incredible how many idiots are around us. Reddit is an idiot magnet" -Score: -3
+"It is incredible how many idiots are around us. 
+Reddit is an idiot magnet" -Score: -3
 ```
 Sometimes, the sentiment scores can be off, due to sentiment's failure to understand context, as seen below:
 
 ```
-"Holy fuck. That's like weaponized cuteness right there." Score: -2
+"Holy fuck. That's like weaponized cuteness right there." 
+Score: -2
 ```
 
 However, by examining thousands of comments, the sum score pretty much averages out. 
@@ -47,12 +49,12 @@ After analyzing the top 50 subreddits, I looked into contrasting subreddits.
 ####Cats vs Dogs####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/catdogindex.html" style= "overflow:hidden; height=100%; width:100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/catdog.html" style= "overflow:hidden; height=100%; width:100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
 
 ####Replublicans vs Democrats####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/politicsindex.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/politics.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
 
 
 Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according to population and rank respectively include: 
@@ -69,7 +71,7 @@ Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according t
 Here you can see the different sum sentiment scores of each U.S. city. 
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/cityindex.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="900" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/uscities.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="900" scrolling="no" frameborder="0"></iframe>
 
 - - -
 
@@ -80,12 +82,12 @@ After analyzing the sum subreddit scores, I wanted to look more into what kind o
 ####News####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/newsindex.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="800" scrolling="no" frameborder="0" ></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/news.html" style= "overflow:hidden" width="1200" height="1800" scrolling="no" frameborder="0" ></iframe>
 
 ####Technology####
                                              
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/techindex.html" style= "overflow:hidden; height=150%; width: 150%" width="700" height="800" scrolling="no" frameborder="0"></iframe>                                 
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/tech.html" style= "overflow:hidden" width="1200" height="1800" scrolling="no" frameborder="0"></iframe>                                 
 
 Whether you want to analyze how people feel about your favorite sports teams, the country you're visiting this summer, or the candidates for the presidential election, using sentiment anaylsis can quickly determine the human emotions on thousands of different topics. 
 
