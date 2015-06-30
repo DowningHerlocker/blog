@@ -60,12 +60,17 @@ After analyzing the top 50 subreddits, I looked into contrasting subreddits.
 Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according to population and rank respectively include: 
 
 ```
-1.New York City         6. Philadelphia         11. Austin              16. Fortworth          21. Denver 
-2.Los Angeles           7. Phoenix              12. Jacksonville        17. Charlotte          22. Washington DC 
-2.Los Angeles           7. Phoenix              12. Jacksonville        17. Charlotte          22. Washington DC  
-3.Chicago               8. San Antonio          13. San Francisco       18. Detroit            23. Memphis
-4.Houston               9. Dallas               14. Indianapolis        19. El Paso            24. Boston
-5.Philadelphia          10. San Jose            15. Columbus            20. Seattle            25. Nashville
+1.New York City             		11. Austin                       21. Denver 
+2.Los Angeles                     	12. Jacksonville	             22. Washington DC 
+2.Los Angeles                       13. San Francisco   			 23. Memphis
+3.Chicago                           14. Indianapolis	             24. Boston
+4.Houston                           15. Columbus  				     25. Nashville 
+5.Philadelphia  					16. Fortworth 
+6. Philadelphia 					17. Charlotte
+7. Phoenix   						18. Detroit
+8. San Antonio						19. El Paso 
+9. Dallas    						20. Seattle
+10. San Jose                                  
 ```
 
 Here you can see the different sum sentiment scores of each U.S. city. 
@@ -83,11 +88,20 @@ After analyzing the sum subreddit scores, I wanted to look more into what kind o
 
 <a href= "http://downingherlocker.github.io/measuring-emotions-on-reddit/news.html"> Here </a> you can see the sentiment scores for each post in the news subreddit
 
+<<<<<<< HEAD
 ![Alt text](/img/messy.png)
+=======
+![Alt text](/img/news.png)
+>>>>>>> 7e19c31dadcc28e8d0bfdf0c6faba85c8440dddc
 
 ####Technology####
                                              
 <a href= "http://downingherlocker.github.io/measuring-emotions-on-reddit/tech.html"> Here </a> you can see the sentiment scores for each post in the technology subreddit
+<<<<<<< HEAD
+=======
+
+![Alt text](/img/tech.png)
+>>>>>>> 7e19c31dadcc28e8d0bfdf0c6faba85c8440dddc
                              
 
 Whether you want to analyze how people feel about your favorite sports teams, the country you're visiting this summer, or the candidates for the presidential election, using sentiment anaylsis can quickly determine the human emotions on thousands of different topics. 
