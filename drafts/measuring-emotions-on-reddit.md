@@ -36,7 +36,7 @@ Aside from the easy to access API, I chose to anaylyze reddit because it covers 
 This graph shows the sum sentiment scores of the top 50 subreddits from negative to positive. 
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/index.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/index.html"  width="700" height="800" scrolling="no" frameborder="0"></iframe>
 
 As you can see, the subreddit "IAmA" has the highest sum sentiment scores. With the "I Am A" subreddit, users post what they do in life, and people can comment, ask questions, ect. The subreddit with the most negative sum sentiment score was "AskReddit", where users can ask reddit anything. 
 
@@ -49,12 +49,12 @@ After analyzing the top 50 subreddits, I looked into contrasting subreddits.
 ####Cats vs Dogs####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/catdog.html" style= "overflow:hidden; height=100%; width:100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/catdog.html" width="700" height="800" scrolling="no" frameborder="0"></iframe>
 
 ####Replublicans vs Democrats####
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/politics.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="800" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/politics.html" width="700" height="800" scrolling="no" frameborder="0"></iframe>
 
 
 Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according to population and rank respectively include: 
@@ -71,7 +71,7 @@ Finally, I analyzed the top 25 U.S. cities. The top 25 cities ranked according t
 Here you can see the different sum sentiment scores of each U.S. city. 
 
 
-<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/uscities.html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="900" scrolling="no" frameborder="0"></iframe>
+<iframe src=  "http://downingherlocker.github.io/measuring-emotions-on-reddit/uscities .html" style= "overflow:hidden; height=100%; width: 100%" width="700" height="900" scrolling="no" frameborder="0"></iframe>
 
 - - -
 
