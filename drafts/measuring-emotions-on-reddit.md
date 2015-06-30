@@ -13,7 +13,7 @@ I parsed the API, taking out the relevant information needed for my analysis. He
 
 - - -
 
-With my new easy to navigate json, I ran a sentiment analysis test on all of the comments of each post on each subreddit. Sentiment, created by [@thisandagain](https://github.com/thisandagain), is a Node.js modulue that uses a preset worldlist, where each block of test is scored based on the negative or positive value of each word. Below is an example of how the sentiment analysis works:
+With my new easy to navigate json, I ran a sentiment analysis test on all of the comments of each post on each subreddit. Sentiment, created by [@thisandagain](https://github.com/thisandagain), is a Node.js modulue that uses a preset worldlist, where each block of text is scored based on the negative or positive value of each word. Below is an example of how the sentiment analysis works:
 
 ```
 "You're dad is adorable and I want to adopt him." -Score: 5
