@@ -87,9 +87,9 @@ After analyzing the sum subreddit scores, I wanted to look more into what kind o
 
 ##Highlight Subreddits##
 
-####News####
+####Ask Science####
 
-<a href= "http://downingherlocker.github.io/measuring-emotions-on-reddit/news.html"> Here </a> you can see the sentiment scores for each post in the news subreddit
+<a href= "http://downingherlocker.github.io/measuring-emotions-on-reddit/askscience.html"> Here </a> you can see the sentiment scores for each post in the news subreddit
 
 
 
